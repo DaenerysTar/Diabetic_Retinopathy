@@ -1,0 +1,5 @@
+test_multi用于在测试集上测试一个模型的Dice和Iou
+visible_multi用于在测试集中随机选择一张图片，让模型生成这张图片的预测结果
+train_unet_multi用于训练unet的分割模型
+train_unet++_multi用于训练unet++的分割模型
+train_manet_multi用于训练manet的分割模型
