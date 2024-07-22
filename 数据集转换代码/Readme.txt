@@ -1,0 +1,10 @@
+calculate bright用于计算某图片内接圆区域的平均亮度
+change bright用于批量地统一图片的亮度
+center crop用于将图片批量地裁剪为正方形
+CLAHE用于对一张图片执行CLAHE算法
+convert_png用于批量地将图片转换为.png格式
+count_pixel用于批量地统计一组图片每种灰度值的像素数量之和
+disorganize用于打乱一组图片和它们对应的掩码
+DDR_convert用于将DDR、idrid数据集中的掩码格式转为灰度图格式
+TJDR_convert用于将TJDR数据集中的掩码格式转为灰度图格式
+photo_convert_back用于将掩码从灰度图格式转为调色板格式
